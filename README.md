@@ -32,26 +32,15 @@ El proyecto consta de las siguientes secciones principales:
    - Opción para cambiar la contraseña y actualizar la información de la cuenta.
 
 ## Tecnologías utilizadas
-###### FRONTEND
-<div style="display: flex; gap: 10px">
-<img src="https://raw.githubusercontent.com/CristinaOlivares/proyecto_awesome/main/html-5.png" alt="Descripción de la imagen" width="100">
-
-<img src="https://raw.githubusercontent.com/CristinaOlivares/proyecto_awesome/main/css.png" alt="Descripción de la imagen" width="100">
-
-<img src="https://raw.githubusercontent.com/CristinaOlivares/proyecto_awesome/main/js.png" alt="Descripción de la imagen" width="100">
-
-<img src="https://raw.githubusercontent.com/CristinaOlivares/proyecto_awesome/main/react.png" alt="Descripción de la imagen" width="100">
-
-</div>
-
-###### BACKEND
-
-<div style="display: flex; gap: 10px">
-
-<img src="https://raw.githubusercontent.com/CristinaOlivares/proyecto_awesome/main/mongodb.png" alt="Descripción de la imagen" width="150">
-
-<img src="https://raw.githubusercontent.com/CristinaOlivares/proyecto_awesome/main/dbeaver.png" alt="Descripción de la imagen" width="150">
-
+<div style="text-align:center;">
+    <img src="https://raw.githubusercontent.com/CristinaOlivares/proyecto_awesome/main/css.png" alt="Descripción de la imagen" width="100">
+    <img src="https://raw.githubusercontent.com/CristinaOlivares/proyecto_awesome/main/js.png" alt="Descripción de la imagen" width="100">
+    <img src="https://raw.githubusercontent.com/CristinaOlivares/proyecto_awesome/main/react.png" alt="Descripción de la imagen" width="100">
+    <br>
+    BACKEND
+    <br>
+    <img src="https://raw.githubusercontent.com/CristinaOlivares/proyecto_awesome/main/mongodb.png" alt="Descripción de la imagen" width="150">
+    <img src="https://raw.githubusercontent.com/CristinaOlivares/proyecto_awesome/main/dbeaver.png" alt="Descripción de la imagen" width="150">
 </div>
 
 
