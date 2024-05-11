@@ -36,7 +36,7 @@ El proyecto consta de las siguientes secciones principales:
 <div style="display: flex; gap: 10px">
 <img src="https://raw.githubusercontent.com/CristinaOlivares/proyecto_awesome/main/html-5.png" alt="Descripción de la imagen" width="50">
 
-<img src="https://raw.githubusercontent.com/CristinaOlivares/proyecto_awesome/main/css.png" alt="Descripción de la imagen" width="50">
+<img src="https://raw.githubusercontent.com/CristinaOlivares/proyecto_awesome/main/css.png" alt="Descripción de la imagen" width="80">
 
 <img src="https://raw.githubusercontent.com/CristinaOlivares/proyecto_awesome/main/js.png" alt="Descripción de la imagen" width="50">
 
